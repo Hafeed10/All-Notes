@@ -39,7 +39,7 @@ manifest.json        # Web app manifest
 - Git
 
 ### Clone the Repository
-```bash
+``bash
 https://github.com/Hafeed10/All-Notes.git
 cd all-notes
 
@@ -50,3 +50,4 @@ flutter build web
 
 License
 This project is licensed under the MIT License.
+
